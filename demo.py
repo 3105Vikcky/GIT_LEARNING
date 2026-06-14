@@ -1,3 +1,4 @@
+#3ERJKMEKLFMRKLFNKLNF
 #!/usr/bin/env python3
 """
 Simple safe calculator CLI.
